@@ -1,2 +1,7 @@
 # big_data_cleaning_and_analysis
 This is a repository for a project to Santander Coders, a scholarship by Santander and Ada to teach Data Engineering concepts and practice.
+
+Here it will be focused concepts of data cleaning with pandas and numpy.
+
+It was used a public dataset available in Kaggle (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) to work on this project.
+
