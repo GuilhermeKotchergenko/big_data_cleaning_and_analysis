@@ -3,5 +3,5 @@ This is a repository for a project to Santander Coders, a scholarship by Santand
 
 Here it will be focused concepts of data cleaning with pandas and numpy.
 
-It was used a public dataset available in Kaggle (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) to work on this project.
+It was used a public dataset available in Kaggle (https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata) to work on this project.
 
