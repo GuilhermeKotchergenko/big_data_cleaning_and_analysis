@@ -5,3 +5,4 @@ Here it will be focused concepts of data cleaning with pandas and numpy.
 
 It was used a public dataset available in Kaggle (https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata) to work on this project.
 
+#With contributions from @Fernando Barbarossa (https://www.linkedin.com/in/fernando-barbarossa-7a34341aa/)
